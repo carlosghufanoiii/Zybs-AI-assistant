@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:alatiris.ph@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/YOURUSERNAME"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@YOURUSERNAME-black?logo=github"></a>
-  <a href="https://www.linkedin.com/in/YOURLINKEDIN/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="mailto:carlosghufanoiii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/carlosghufanoiii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@YOURUSERNAME-black?logo=github"></a>
+  <a href="https://www.linkedin.com/in/trickztercarl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
 ---
@@ -63,13 +63,13 @@ I lead **Alatiris Technologies Inc.** and I’m currently building **Project ZYB
 ### 🤝 Let’s Collaborate
 I’m open to **partnerships, pilots, and investments** aligned with AI assistants, cybersecurity, and developer tooling.
 
-- 📫 **Email:** alatiris.ph@gmail.com  
+- 📫 **Email:** carlhufanoiii@alatiris.com
 - 🧪 **Trademark:** Project ZYBS™ by Carlos Hufano III — Scientist & Innovator. © 2025. All rights reserved.
 
 ---
 
 <!-- Optional: GitHub stats (replace YOURUSERNAME) -->
 <!--
-![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark)
+![Stats](https://github-readme-stats.vercel.app/api?username=carlosghufanoiii&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlosghufanoiii&layout=compact&theme=dark)
 -->
