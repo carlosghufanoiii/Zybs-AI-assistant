@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:carlosghufanoiii@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/carlosghufanoiii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@YOURUSERNAME-black?logo=github"></a>
+  <a href="https://github.com/carlosghufanoiii"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-@carlhufanoiii-black?logo=github"></a>
   <a href="https://www.linkedin.com/in/trickztercarl/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white"></a>
 </p>
 
